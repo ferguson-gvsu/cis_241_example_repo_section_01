@@ -1,2 +1,2 @@
-other!!!
+another!!!
 another line in other.txt
